@@ -1,0 +1,2 @@
+# servicecontract
+ This concept uses blockchain to bring a new level of transparency and automation to customer service agreements, potentially improving trust and efficiency in business-customer relationships. It's crucial to design the system with user-friendliness in mind, as both businesses and customers might need some level of familiarity with blockchain technology to use the platform effectively.
